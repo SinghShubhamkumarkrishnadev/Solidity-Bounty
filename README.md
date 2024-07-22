@@ -3,7 +3,7 @@
 ## Introduction
 - ### Protocol Name: Centrifuge Token (ERC20)
 - ### Category: DeFi
-- ### Smart Contract: [Centrifuge Token (ERC20)](https://etherscan.io/address/0x79febf6b9f76853edbcbc913e6aae8232cfb9de9#code)
+- ### Smart Contract: [Centrifuge Token (ERC20)](https://etherscan.io/token/0xc221b7e65ffc80de234bbb6667abdd46593d34f0)
 
 ## Function Analysis
 
